@@ -183,7 +183,7 @@ plt.show()
 # Natural sampling
 <img width="1238" height="985" alt="Screenshot 2026-01-30 140226" src="https://github.com/user-attachments/assets/7f56c4a7-0a0a-4acf-a979-cbef6dc3e4a7" />
 
-# Front top sampling
+# Flat top sampling
 <img width="1232" height="981" alt="Screenshot 2026-01-30 140241" src="https://github.com/user-attachments/assets/33c77fab-fe7f-43a6-992d-75c2aecab98e" />
 
 
